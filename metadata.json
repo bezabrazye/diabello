@@ -1,0 +1,9 @@
+
+{
+  "name": "Diabello",
+  "description": "Diabello is a virtual diabetes assistant application designed to help users manage their diabetes through chat, calls, and information logging. All interactions and UI are in Latvian.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
